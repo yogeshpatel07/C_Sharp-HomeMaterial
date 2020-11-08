@@ -1,0 +1,34 @@
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.exe.config
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.exe
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.pdb
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.BaseFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.BeamFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.ColumnFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.HomeFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MainMdiFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MatDetlFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MatStimFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.Properties.Resources.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.RoofFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.WallFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.WinFrm.resources
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.csproj.GenerateResource.Cache
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.exe
+F:\My Visual Studio Proj\C#\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.pdb
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.exe.config
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.exe
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.pdb
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.exe
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\bin\Debug\MaterialEstimate.pdb
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.BaseFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.BeamFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.ColumnFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.HomeFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MainMdiFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MatDetlFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.MatStimFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.Properties.Resources.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.RoofFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.WallFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.WinFrm.resources
+G:\zyt proj\Win Proj\MaterialEstimate\MaterialEstimate\obj\Debug\MaterialEstimate.csproj.GenerateResource.Cache
